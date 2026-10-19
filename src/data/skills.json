@@ -1,0 +1,5 @@
+[
+  {"it":"Backend & architettura","en":"Backend & architecture","items":["Java / Java 17","Spring Boot","Microservizi","REST API","Keycloak"]},
+  {"it":"Dati & persistenza","en":"Data & persistence","items":["MongoDB","MySQL","SQL / T-SQL"]},
+  {"it":"Strumenti & cloud","en":"Tools & cloud","items":["Docker","Git / GitHub","Maven","AWS","Google Cloud","Grafana","Postman"]}
+]

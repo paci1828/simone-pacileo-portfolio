@@ -1,0 +1,23 @@
+{
+  "name": "Simone Pacileo",
+  "github": "paci1828",
+  "email": "pacileo.simone@yahoo.com",
+  "linkedin": "https://www.linkedin.com/in/simone-pacileo/",
+  "location": "Milano, Italia",
+  "cv": "cv/Simone_Pacileo_CV.pdf",
+  "bio": {
+    "it": "Sono uno sviluppatore backend Java con una laurea in Informatica all’Università degli Studi di Milano-Bicocca. Lavoro su applicazioni web e microservizi: mi piace capire come si incastrano le parti, dare struttura ai dati e trasformare le esigenze in software concreto.",
+    "en": "I’m a Java backend developer with a Computer Science degree from the University of Milano-Bicocca. I work on web applications and microservices. I enjoy understanding how the pieces fit together, structuring data and turning requirements into working software."
+  },
+  "approach": {
+    "it": "Dai servizi per la pubblica amministrazione ai progetti bancari, porto curiosità, attenzione ai dettagli e voglia di lavorare in squadra. Qui trovi i progetti personali e universitari che raccontano il mio percorso.",
+    "en": "From public administration services to banking projects, I bring curiosity, attention to detail and a collaborative mindset. Here you’ll find the personal and university projects that tell my story."
+  },
+  "education": {
+    "institution": "Università degli Studi di Milano-Bicocca",
+    "period": "2017 — 2023",
+    "it": "Laurea triennale in Informatica",
+    "en": "Bachelor’s degree in Computer Science"
+  },
+  "cvAvailable": false
+}

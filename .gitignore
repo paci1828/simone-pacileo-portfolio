@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env.local
+.env.*.local
+*.tsbuildinfo
+test-results/
+.DS_Store
+
+.tools/
+docs/qa/
